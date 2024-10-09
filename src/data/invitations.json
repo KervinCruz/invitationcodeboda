@@ -1,0 +1,32 @@
+[
+  {
+    "username": "jperez",
+    "tableNumber": 5,
+    "entryCode": "123456"
+  },
+  {
+    "username": "mrodriguez",
+    "tableNumber": 3,
+    "entryCode": "234567"
+  },
+  {
+    "username": "alopez",
+    "tableNumber": 8,
+    "entryCode": "345678"
+  },
+  {
+    "username": "cgonzalez",
+    "tableNumber": 2,
+    "entryCode": "456789"
+  },
+  {
+    "username": "lmartinez",
+    "tableNumber": 7,
+    "entryCode": "567890"
+  },
+  {
+    "username": "kcruz",
+    "tableNumber": 1010,
+    "entryCode": "ABC203"
+  }
+]
