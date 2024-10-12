@@ -31,7 +31,7 @@ const WeddingInfo: React.FC<WeddingInfoProps> = ({ guestName, username, onLogout
           <div>
             <h3 className="font-semibold text-lg text-secondary-700">Dirección</h3>
             <a
-              href="https://goo.gl/maps/your-wedding-location"
+              href="https://www.google.com/maps/place/Vacacional+Hna+Antonia/@18.440901,-69.0662083,106m/data=!3m1!1e3!4m12!1m5!3m4!2zMTjCsDI2JzI2LjgiTiA2OcKwMDMnNTguMSJX!8m2!3d18.4407778!4d-69.0661389!3m5!1s0x8eaf575d9022b29d:0xd5baae36c8c92953!8m2!3d18.4408405!4d-69.0656789!16s%2Fg%2F11v5xctkc0?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary-400 hover:underline"
