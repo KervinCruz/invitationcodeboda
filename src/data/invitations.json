@@ -196,5 +196,7 @@
     {"username": "ymarrero", "tableNumber": 7, "entryCode":"D1Q2X4"},
     {"username": "jnrosario", "tableNumber": 15, "entryCode":"K4H8S1"},
     {"username": "jrosario1", "tableNumber": 15, "entryCode":"U7T0Y6"},
-    {"username": "vmercedes1", "tableNumber": 17, "entryCode":"Z9J1F3"}
+    {"username": "vmercedes1", "tableNumber": 17, "entryCode":"Z9J1F3"},
+    {"username": "jberas", "tableNumber": 15, "entryCode": "F32DSA"},
+    {"username": "crosa", "tableNumber": 15, "entryCode": "S2FRD2"}
 ]
